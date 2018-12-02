@@ -60,3 +60,11 @@ typings/
 
 # next.js build output
 .next
+
+# Electron outputs
+*-linux-arm64
+*-linux-armv7l
+*-linux-ia32
+*-linux-x64
+*-win32-ia32
+*-win32-x64
